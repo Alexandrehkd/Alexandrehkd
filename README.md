@@ -19,7 +19,7 @@ And starting to learn;
 
 <p>
   <a href="https://www.instagram.com/alexandrehkd/">
-  <img align=left width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+  <img align=left width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" _black/>
     
   </a>
   <a href="https://www.linkedin.com/in/alexandre-lima-23493024/">
