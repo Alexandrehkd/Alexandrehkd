@@ -29,4 +29,4 @@ And starting to learn;
 </p>
 <br/>
 <br/>
-[![Alexandrehkd](https://github-readme-stats.vercel.app/api?username=Alexandrehkd)](https://github.com/anuraghazra/github-readme-stats)
+![Alexandre Stats](https://github-readme-stats.vercel.app/api?username=Alexandrehkd&show_icons=true)
