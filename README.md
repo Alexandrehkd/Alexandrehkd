@@ -18,8 +18,8 @@ And starting to learn;
 ### Connect with me:
 
 <p>
-  <a href="https://www.instagram.com/alexandrehkd/">
-  <img align=left width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>
+  <a href="https://www.instagram.com/alexandrehkd/" target="_blank">
+  <img align=left width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
     
   </a>
   <a href="https://www.linkedin.com/in/alexandre-lima-23493024/">
