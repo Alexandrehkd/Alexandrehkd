@@ -29,6 +29,6 @@ And starting to learn;
 </p>
 <br/>
 <br/>
-![Alexandre Stats](https://github-readme-stats.vercel.app/api?username=Alexandrehkd&show_icons=true)
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alexandrehkd&show_icons=true)
