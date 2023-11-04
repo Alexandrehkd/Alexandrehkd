@@ -32,3 +32,6 @@ And starting to learn;
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alexandrehkd&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrehkd)](https://github.com/anuraghazra/github-readme-stats)
